@@ -37,3 +37,10 @@ Or you can call as a message action button:
 - Allow to send the response to a group of users
 - Optionally preview the response
 - Configuration modal for the user with pre-defined system instruction and optional preview flow.
+
+
+## Contributers
+
+<a href="https://github.com/RocketChat/Rocket.Chat.OpenAI.Completions.App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RocketChat/Rocket.Chat.OpenAI.Completions.App" />
+</a>
